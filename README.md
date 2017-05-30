@@ -7,3 +7,7 @@ Updating pesho
 
 "Update with Tortoise"
 >>>>>>> .theirs
+
+
+
+haide nai setne
